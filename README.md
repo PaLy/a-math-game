@@ -1,3 +1,3 @@
-# Flappy Math Square
+# A Math Game
 
-Play here: http://paly.github.io/flappy-math-square/
+Play here: https://paly.github.io/a-math-game/
